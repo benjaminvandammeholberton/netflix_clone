@@ -5,8 +5,7 @@ This repository is for learning purposes and contains a Netflix clone built with
 ## Features:
 
 ### User Actions:
-- **Login:** Users can log in to their accounts using email or OAuth providers (Google and GitHub).
-- **Register:** New users can register for an account using email, GitHub or Google account.
+- **Login and Register:** Users can log in to their accounts or register using email or OAuth providers (Google and GitHub).
 - **Movie Selection:** Users can browse a selection of movies on the main screen.
 - **Preview:** Users can preview movies before watching.
 - **Launch Movie:** Users can launch selected movies for playback.
