@@ -10,10 +10,6 @@ This repository is for learning purposes and contains a Netflix clone built with
 - **Preview:** Users can preview movies before watching.
 - **Launch Movie:** Users can launch selected movies for playback.
 
-### Authentication:
-- Handles authentication using email.
-- Supports OAuth authentication with Google and GitHub.
-
 ## Technologies Used:
 
 - Framework: Next.js
