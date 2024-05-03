@@ -4,14 +4,20 @@ This repository is for learning purposes and contains a Netflix clone built with
 
 ## Features:
 
-### Authentication:
+### User Actions:
+- **Login:** Users can log in to their accounts using email or OAuth providers (Google and GitHub).
+- **Register:** New users can register for an account using email, GitHub or Google account.
+- **Movie Selection:** Users can browse a selection of movies on the main screen.
+- **Preview:** Users can preview movies before watching.
+- **Launch Movie:** Users can launch selected movies for playback.
 
+### Authentication:
 - Handles authentication using email.
 - Supports OAuth authentication with Google and GitHub.
-- Technologies Used:
 
-### Framework: Next.js
+## Technologies Used:
 
+- Framework: Next.js
 - Database: MongoDB (via Prisma)
 - Styling: Tailwind CSS
 
